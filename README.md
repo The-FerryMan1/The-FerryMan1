@@ -105,7 +105,7 @@
 
 ###
 
-<a href="https://vitapulse-app.onrender.com" align="center">https://vitapulse-app.onrender.com/</a>
+<a align="center" href="https://vitapulse-app.onrender.com" align="center">https://vitapulse-app.onrender.com/</a>
 
 ###
 
