@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Go lang. Go lang is great, I want to add it on my backend technology, and something to build with it.<br><br>🎯 Goals: First of all, why I make this Readme profile because I wanted to land a job, but my goal is to build something special or be part of a great project</p>
+<p align="left">📚 I'm currently learning Go lang. Go lang is great, I want to add it to my backend technology, and something to build with it.<br><br>🎯 Goals: First of all, I make this Readme profile because I wanted to land a job, but my goal is to build something special or be part of a great project</p>
 
 ###
 
